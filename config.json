@@ -55,7 +55,15 @@
     { "tag": "备份三线", "base": "https://0.cdz.qzz.io/tvbox/live/" },
     { "tag": "备份四线", "base": "https://0.wdzb.eu.cc/tvbox/live/" }
   ],
+  
+"apiDomains": [
+    { "tag": "备份线路", "base": "http://liujin86.ccwu.cc/tvbox/" }
+  ],
 
+  "liveDomains": [
+    { "tag": "备份线路", "base": "http://liujin86.ccwu.cc/tvbox/live/" }
+  ],
+  
   "apiWeights": {
     "轮替占位.json": 1, "神马都没有.json": 2, "饭太硬.json": 4, "肥猫已死.json": 5,
     "摸鱼.json": 6, "王二小.json": 7, "集多已死.json": 8, "潇洒.json": 9, "小米以死.json": 10,
