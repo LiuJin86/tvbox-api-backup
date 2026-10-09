@@ -43,11 +43,12 @@
   },
   
 "apiDomains": [
-    { "tag": "备份线路", "base": "http://liujin86.ccwu.cc/tvbox/" }
+    { "tag": "备份一线", "base": "https://8.wudaozhe.net/tvbox/" },
+    { "tag": "备份二线", "base": "https://liujin86.ccwu.cc/tvbox/" }
   ],
-
   "liveDomains": [
-    { "tag": "备份线路", "base": "http://liujin86.ccwu.cc/tvbox/live/" }
+    { "tag": "备份一线", "base": "https://8.wudaozhe.net/tvbox/live/" },
+    { "tag": "备份二线", "base": "https://liujin86.ccwu.cc/tvbox/live/" }
   ],
   
   "apiWeights": {
