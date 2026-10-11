@@ -40,7 +40,6 @@ jieyingshi|界影|type: 3|api: https://fastlink.cokey.xyz/f/5rMnUd/jieyingshi.py
 剧王短剧|剧王｜短剧|type: 3|api: https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py
 七猫|七猫｜短剧|type: 3|api: https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py
 qw|七味|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py
-短剧|🦛短剧|type: 3|api: https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py
 短剧┃搜索1|🏠短剧┃搜1|type: 3|api: https://mpimg.cn/down.php/7e246e896fa4cf52866921b818d7e8cb.py
 短剧搜索|🏠短剧┃搜2|type: 3|api: https://mpimg.cn/down.php/18b8bebbf7b64d39a1e3a90c83a86642.py
 fy|♨️枫叶｜免扫|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py
@@ -111,3 +110,4 @@ py_6v|☀六微🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/6v.py
 py_周六影库|☀周六🔹颖院|type: 3|api: https://7337.kstore.vip/xw/py/周六影库.py
 py_华数|☀华数🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/华数.py
 py_咖啡直播|⚽咖啡🔹球赛|type: 3|api: https://7337.kstore.vip/xw/py/咖啡直播.py
+短剧|🦛短剧|type: 3|api: https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py
